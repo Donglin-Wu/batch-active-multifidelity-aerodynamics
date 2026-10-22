@@ -1,0 +1,10 @@
+{
+  "dataset": "sc1095",
+  "split_seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "initial_count": 20,
+  "maximum_count": 160,
+  "batch_size": 4,
+  "test_count": 80,
+  "random_repeats": 5,
+  "optimizer_restarts": 2
+}

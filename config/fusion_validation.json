@@ -1,0 +1,9 @@
+{
+  "batch_size": 4,
+  "optimizer_restarts": 2,
+  "cases": {
+    "sc1095": {"initial_count": 20, "maximum_count": 80},
+    "a320": {"initial_count": 10, "maximum_count": 14},
+    "crm": {"initial_count": 10, "maximum_count": 14}
+  }
+}
